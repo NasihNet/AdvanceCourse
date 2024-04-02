@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Jc4mSV8DBlc/NEoVBIM+S1Ls9zTyMPnbtpTP/JRteEaqCs8c87ZAqN/O8bVfeoC1Hj6FOI+L0iXH66lzJTzqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasih\\Desktop\\Side Project\\.Net\\fullcourse\\Enums\\Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nasih\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nasih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nasih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

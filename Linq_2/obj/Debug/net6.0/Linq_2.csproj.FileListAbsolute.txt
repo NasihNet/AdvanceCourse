@@ -1,0 +1,14 @@
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\bin\Debug\net6.0\Linq_2.exe
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\bin\Debug\net6.0\Linq_2.deps.json
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\bin\Debug\net6.0\Linq_2.runtimeconfig.json
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\bin\Debug\net6.0\Linq_2.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\bin\Debug\net6.0\Linq_2.pdb
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.AssemblyInfoInputs.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.AssemblyInfo.cs
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.csproj.CoreCompileInputs.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\refint\Linq_2.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.pdb
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\Linq_2.genruntimeconfig.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\Linq_2\obj\Debug\net6.0\ref\Linq_2.dll

@@ -1,0 +1,14 @@
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\bin\Debug\net6.0\polymorphism.exe
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\bin\Debug\net6.0\polymorphism.deps.json
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\bin\Debug\net6.0\polymorphism.runtimeconfig.json
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\bin\Debug\net6.0\polymorphism.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\bin\Debug\net6.0\polymorphism.pdb
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfoInputs.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfo.cs
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\refint\polymorphism.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.pdb
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\polymorphism.genruntimeconfig.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\polymorphism\obj\Debug\net6.0\ref\polymorphism.dll

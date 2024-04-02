@@ -1,0 +1,14 @@
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\bin\Debug\net6.0\fullcourse.exe
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\bin\Debug\net6.0\fullcourse.deps.json
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\bin\Debug\net6.0\fullcourse.runtimeconfig.json
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\bin\Debug\net6.0\fullcourse.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\bin\Debug\net6.0\fullcourse.pdb
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.AssemblyInfoInputs.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.AssemblyInfo.cs
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.csproj.CoreCompileInputs.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\refint\fullcourse.dll
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.pdb
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\fullcourse.genruntimeconfig.cache
+C:\Users\nasih\Desktop\Side Project\.Net\fullcourse\fullcourse\obj\Debug\net6.0\ref\fullcourse.dll
